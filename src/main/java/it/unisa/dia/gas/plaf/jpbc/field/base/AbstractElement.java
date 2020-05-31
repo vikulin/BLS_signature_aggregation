@@ -1,6 +1,6 @@
 package it.unisa.dia.gas.plaf.jpbc.field.base;
 
-import com.sun.istack.internal.NotNull;
+import org.jetbrains.annotations.NotNull;
 import it.unisa.dia.gas.jpbc.Element;
 import it.unisa.dia.gas.jpbc.ElementPowPreProcessing;
 
